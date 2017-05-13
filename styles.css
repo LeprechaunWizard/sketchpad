@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+#pad{
+    margin: auto;
+    width: 800px;
+    border: 40px solid red;
+    border-radius: 20px;
+
+}
+
+.row {
+    height: 50px;
+}
+
+.panel {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    display: inline-block;
+}
