@@ -6,6 +6,25 @@ h1 {
     text-align: center;
 }
 
+button {
+    color: black;
+    background-color: white;
+    border: 1px solid #34bcff;
+    border-radius: 90px;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+
+button:active {
+    background-color: #242ced;
+}
+
+#control {
+    width: 253px;
+    margin: auto;
+}
+
 #pad{
     margin: auto;
     width: 800px;
